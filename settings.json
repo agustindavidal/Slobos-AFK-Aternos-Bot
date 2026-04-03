@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "kaleillos.aternos.me:60597",
+    "ip": "kaleillos.aternos.me",
     "port": 60597,
     "version": "",
     "try-creative": false
